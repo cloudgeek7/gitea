@@ -13,7 +13,7 @@
     "@citation-js/plugin-software-formats": "0.6.0",
     "@claviska/jquery-minicolors": "2.3.6",
     "@mcaptcha/vanilla-glue": "0.1.0-alpha-3",
-    "@primer/octicons": "17.10.2",
+    "@primer/octicons": "17.11.1",
     "@vue/compiler-sfc": "3.2.45",
     "add-asset-webpack-plugin": "2.0.1",
     "ansi-to-html": "0.7.2",
